@@ -1,1 +1,4 @@
-Hello World (👉ﾟヮﾟ)👉 🌍
+- 👋 Hi, I’m Adam
+- 👀 I’m interested in Gaming and Coding
+- 🌱 I’m currently learning C++
+- 📫 How to reach me on Discord : cosmic.chain.reaction.2
